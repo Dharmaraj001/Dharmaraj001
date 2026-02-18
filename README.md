@@ -2,7 +2,6 @@
   Hi there, I'm Dharmaraj 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
-1>
 <h3 align="center">Software Developer | Java | MERN Stack | DSA Enthusiast</h3>
 
 <p align="center">
@@ -20,8 +19,6 @@
 - ⚡ Fun fact: I believe a clean codebase is a happy codebase.
 
 ---
-
-## 🛠️ Tech Stack
 
 ## 🛠️ Tech Stack
 
