@@ -8,7 +8,6 @@
 - 💻 Software Developer focused on **Backend and Full-Stack Development**
 - 🧠 Solved **160+ DSA problems** on LeetCode & GFG
 - ⚙️ Skilled in building **scalable MERN applications**
-- 🎯 Goal: Become a **Software Engineer at a Product-Based Company**
 - 🔥 Currently building **FairFix – Service-based platform**
 - 📈 Continuously improving **DSA, Backend, and System Design**
 
