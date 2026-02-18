@@ -1,4 +1,6 @@
-<h1 align="center">Hi there, I'm Dharmaraj 👋</h1>
+<h1 align="center">
+  Hi there, I'm Dharmaraj <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20Gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" />
+</h1>
 <h3 align="center">Software Developer | Java | MERN Stack | DSA Enthusiast</h3>
 
 <p align="center">
