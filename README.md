@@ -82,8 +82,8 @@ Trading dashboard clone
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Dharmaraj001&show_icons=true&theme=tokyonight" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharmaraj001&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
 ---
@@ -91,7 +91,7 @@ Trading dashboard clone
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=your-username&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=Dharmaraj001&theme=tokyonight"/>
 </p>
 
 ---
@@ -111,7 +111,7 @@ Trading dashboard clone
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="https://github.com/your-username">
+<a href="https://github.com/Dharmaraj001">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 </p>
@@ -121,7 +121,7 @@ Trading dashboard clone
 ## ⚡ Activity Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dharmaraj001&theme=tokyo-night"/>
 </p>
 
 ---
@@ -129,7 +129,7 @@ Trading dashboard clone
 ## 👀 Profile Views
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=blue&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Dharmaraj001&label=Profile%20Views&color=blue&style=for-the-badge"/>
 </p>
 
 ---
