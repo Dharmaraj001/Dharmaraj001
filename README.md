@@ -30,13 +30,12 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dharmaraj001&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dharmaraj001&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dharmaraj001&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dharmaraj001&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Dharmaraj001&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Dharmaraj001&theme=tokyonight"/>
 </p>
 
 ---
