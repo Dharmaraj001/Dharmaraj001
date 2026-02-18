@@ -1,6 +1,8 @@
 <h1 align="center">
-  Hi there, I'm Dharmaraj <img src="https://media.giphy.com/media/hvRJCLz79cymugaDH5/giphy.gif" width="35px">
+  Hi there, I'm Dharmaraj 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
+1>
 <h3 align="center">Software Developer | Java | MERN Stack | DSA Enthusiast</h3>
 
 <p align="center">
@@ -24,7 +26,7 @@
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a href="#">
     <img src="https://skillicons.dev/icons?i=java,js,mongodb,express,react,node,tailwind,bootstrap,mysql,git,github,postman,vscode&theme=dark" />
   </a>
 </p>
