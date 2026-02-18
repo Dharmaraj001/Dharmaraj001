@@ -1,37 +1,142 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">Hi 👋, I'm Dharmaraj</h1>
+<h3 align="center">Software Developer | Java | MERN Stack | DSA Enthusiast</h3>
 
-###
+---
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
-</div>
+## 🚀 About Me
 
-###
+- 💻 Software Developer focused on **Backend and Full-Stack Development**
+- 🧠 Solved **160+ DSA problems** on LeetCode & GFG
+- ⚙️ Skilled in building **scalable MERN applications**
+- 🎯 Goal: Become a **Software Engineer at a Product-Based Company**
+- 🔥 Currently building **FairFix – Service-based platform**
+- 📈 Continuously improving **DSA, Backend, and System Design**
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
-</div>
+---
 
-###
+## 🛠️ Tech Stack
+
+### Languages
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,html,css" />
+</p>
+
+### Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" />
+</p>
+
+### Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Database
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 FairFix (MERN Stack)
+Service platform connecting users with service providers
+
+- Authentication system
+- API integration
+- Full-stack architecture
+
+🔗 Live: https://your-link  
+🔗 Repo: https://github.com/your-username/fairfix
+
+---
+
+### 🔹 BrainBox LMS
+Learning Management System with authentication and role-based access
+
+- Secure login system
+- CRUD operations
+- Full MERN implementation
+
+🔗 Repo: https://github.com/your-username/brainbox
+
+---
+
+### 🔹 Zerodha Clone
+Trading dashboard clone
+
+- React frontend
+- Node backend
+- MongoDB database
+
+🔗 Repo: https://github.com/your-username/zerodha-clone
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" height="180"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=your-username&theme=tokyonight"/>
+</p>
+
+---
+
+## 🧠 DSA Progress
+
+- LeetCode: https://leetcode.com/your-username
+- Solved: 160+ problems
+- Focus: Arrays, Linked List, Trees, DP, Graphs
+
+---
+
+## 🌐 Connect with Me
+
+<p>
+<a href="https://linkedin.com/in/your-linkedin">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://github.com/your-username">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+</p>
+
+---
+
+## ⚡ Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=tokyo-night"/>
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=blue&style=for-the-badge"/>
+</p>
+
+---
+
+## 💡 Developer Quote
+
+> "Consistency in coding beats talent."
+
+---
+
