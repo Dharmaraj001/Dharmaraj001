@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi there, I'm Dharmaraj <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20Gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" />
+  Hi there, I'm Dharmaraj <img src="https://media.giphy.com/media/hvRJCLz79cymugaDH5/giphy.gif" width="35px">
 </h1>
 <h3 align="center">Software Developer | Java | MERN Stack | DSA Enthusiast</h3>
 
@@ -21,9 +21,11 @@
 
 ## 🛠️ Tech Stack
 
+## 🛠️ Tech Stack
+
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,mongodb,express,react,node,tailwind,bootstrap,mysql,git,github,postman,vscode&perline=13" />
+    <img src="https://skillicons.dev/icons?i=java,js,mongodb,express,react,node,tailwind,bootstrap,mysql,git,github,postman,vscode&theme=dark" />
   </a>
 </p>
 
