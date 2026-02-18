@@ -10,8 +10,8 @@
 ## 🚀 About Me
 
 - 💻 Software Developer focused on **Backend and Full-Stack Development**
-- 🧠 Solved **160+ DSA problems** across LeetCode & GFG
-- ⚙️ Skilled in building **scalable MERN applications**
+- 🧠 Solved **200+ DSA problems** across LeetCode , GFG and other Platforms.
+- ⚙️ Skilled in building **scalable WEB applications**
 - 📈 Currently mastering **System Design and Advanced Java**
 - ⚡ Fun fact: I believe a clean codebase is a happy codebase.
 
@@ -45,7 +45,7 @@
 <p align="left">
 <a href="https://leetcode.com/u/Dharmaraj01/">
   <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
-</a>
+</a> &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/dharmarajs001/">
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
