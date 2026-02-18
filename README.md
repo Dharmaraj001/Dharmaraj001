@@ -1,141 +1,66 @@
-<h1 align="center">Hi 👋, I'm Dharmaraj</h1>
+<h1 align="center">Hi there, I'm Dharmaraj 👋</h1>
 <h3 align="center">Software Developer | Java | MERN Stack | DSA Enthusiast</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dharmaraj001&label=Profile%20Views&color=6366f1&style=flat-square" alt="Dharmaraj001" />
+</p>
 
 ---
 
 ## 🚀 About Me
 
 - 💻 Software Developer focused on **Backend and Full-Stack Development**
-- 🧠 Solved **160+ DSA problems** on LeetCode & GFG
+- 🧠 Solved **160+ DSA problems** across LeetCode & GFG
 - ⚙️ Skilled in building **scalable MERN applications**
-- 🔥 Currently building **FairFix – Service-based platform**
-- 📈 Continuously improving **DSA, Backend, and System Design**
+- 📈 Currently mastering **System Design and Advanced Java**
+- ⚡ Fun fact: I believe a clean codebase is a happy codebase.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
-<p>
-<img src="https://skillicons.dev/icons?i=java,js,html,css" />
-</p>
-
-### Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" />
-</p>
-
-### Backend
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### Database
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
-### Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,js,mongodb,express,react,node,tailwind,bootstrap,mysql,git,github,postman,vscode&perline=13" />
+  </a>
 </p>
 
 ---
 
-## 📌 Featured Projects
-
-### 🔹 FairFix (MERN Stack)
-Service platform connecting users with service providers
-
-- Authentication system
-- API integration
-- Full-stack architecture
-
-🔗 Live: https://your-link  
-🔗 Repo: https://github.com/your-username/fairfix
-
----
-
-### 🔹 BrainBox LMS
-Learning Management System with authentication and role-based access
-
-- Secure login system
-- CRUD operations
-- Full MERN implementation
-
-🔗 Repo: https://github.com/your-username/brainbox
-
----
-
-### 🔹 Zerodha Clone
-Trading dashboard clone
-
-- React frontend
-- Node backend
-- MongoDB database
-
-🔗 Repo: https://github.com/your-username/zerodha-clone
-
----
-
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Dharmaraj001&show_icons=true&theme=tokyonight" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharmaraj001&layout=compact&theme=tokyonight" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Dharmaraj001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharmaraj001&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
-
----
-
-## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Dharmaraj001&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=Dharmaraj001&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-## 🧠 DSA Progress
+## 🧠 Coding Profiles & Activity
 
-- LeetCode: https://leetcode.com/your-username
-- Solved: 160+ problems
-- Focus: Arrays, Linked List, Trees, DP, Graphs
-
----
-
-## 🌐 Connect with Me
-
-<p>
-<a href="https://linkedin.com/in/your-linkedin">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<p align="left">
+<a href="https://leetcode.com/u/Dharmaraj01/">
+  <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
 </a>
-
-<a href="https://github.com/Dharmaraj001">
-<img src="https://skillicons.dev/icons?i=github"/>
+<a href="https://www.linkedin.com/in/dharmarajs001/">
+  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 </p>
 
----
-
-## ⚡ Activity Graph
-
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dharmaraj001&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dharmaraj001&theme=tokyo-night&hide_border=true" width="100%"/>
 </p>
 
 ---
 
-## 👀 Profile Views
+## 💡 Philosophy
+
+> "Code is like humor. When you have to explain it, it’s bad."
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Dharmaraj001&label=Profile%20Views&color=blue&style=for-the-badge"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" />
 </p>
-
----
-
-## 💡 Developer Quote
-
-> "Consistency in coding beats talent."
-
----
-
