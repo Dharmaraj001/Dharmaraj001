@@ -5,7 +5,7 @@
 <h3 align="center">Software Developer | Java | MERN Stack | DSA Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dharmaraj001&label=Profile%20Views&color=6366f1&style=flat-square" alt="Dharmaraj001" />
+  <img src="https://komarev.com/ghpvc/?username=Dharmaraj001&label=Profile%20Views&color=6366f1&style=flat-square" alt="Dharmaraj001"/>
 </p>
 
 ---
