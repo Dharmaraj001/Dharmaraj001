@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 About Me.
 
 - 💻 Software Developer focused on **Backend and Full-Stack Development**
 - 🧠 Solved **200+ DSA problems** across LeetCode , GFG and other Platforms.
